@@ -1,6 +1,6 @@
 # KaseiCoin
 
-![KaseiCoin Header](Create_a_futuristic_and_visually_striking_header_i.png)
+![KaseiCoin Header](headermartiancrowdsale.png)
 
 KaseiCoin is a groundbreaking cryptocurrency initiative designed for facilitating trade on Mars. As an ERC-20 compliant fungible token, KaseiCoin ensures interoperability with other cryptocurrencies, making it accessible for future Mars settlers.
 
